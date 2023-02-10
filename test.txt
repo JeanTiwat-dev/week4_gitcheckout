@@ -1,1 +1,1 @@
-first's commit (edit by second commit)
+first's commit (edit by second commit) + third commit
